@@ -1,0 +1,7 @@
+C:\Users\moham\source\repos\oob1\oob1\bin\Debug\oob1.exe.config
+C:\Users\moham\source\repos\oob1\oob1\bin\Debug\oob1.exe
+C:\Users\moham\source\repos\oob1\oob1\bin\Debug\oob1.pdb
+C:\Users\moham\source\repos\oob1\oob1\obj\Debug\oob1.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\oob1\oob1\obj\Debug\oob1.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\oob1\oob1\obj\Debug\oob1.exe
+C:\Users\moham\source\repos\oob1\oob1\obj\Debug\oob1.pdb
